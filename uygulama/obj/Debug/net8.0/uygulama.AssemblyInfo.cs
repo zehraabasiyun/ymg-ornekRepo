@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("uygulama")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2e02c33b718633f0ccd836ef149ca63eedc88f52")]
 [assembly: System.Reflection.AssemblyProductAttribute("uygulama")]
 [assembly: System.Reflection.AssemblyTitleAttribute("uygulama")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

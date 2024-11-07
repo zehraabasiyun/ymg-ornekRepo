@@ -452,11 +452,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zehra\\OneDrive\\Masaüstü\\Ders\\uygulama\\uygulama\\uygulama.csproj",
+      "projectUniqueName": "C:\\Users\\zehra\\OneDrive\\Masaüstü\\Ders\\ymg-ornekRepo\\uygulama\\uygulama.csproj",
       "projectName": "uygulama",
-      "projectPath": "C:\\Users\\zehra\\OneDrive\\Masaüstü\\Ders\\uygulama\\uygulama\\uygulama.csproj",
+      "projectPath": "C:\\Users\\zehra\\OneDrive\\Masaüstü\\Ders\\ymg-ornekRepo\\uygulama\\uygulama.csproj",
       "packagesPath": "C:\\Users\\zehra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zehra\\OneDrive\\Masaüstü\\Ders\\uygulama\\uygulama\\obj\\",
+      "outputPath": "C:\\Users\\zehra\\OneDrive\\Masaüstü\\Ders\\ymg-ornekRepo\\uygulama\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\zehra\\AppData\\Roaming\\NuGet\\NuGet.Config",
