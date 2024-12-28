@@ -1,0 +1,3 @@
+#!/bin/bash
+# Servisi durdur
+systemctl stop my-rest-api

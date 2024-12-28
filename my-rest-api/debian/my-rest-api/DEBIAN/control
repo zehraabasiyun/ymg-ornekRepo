@@ -1,0 +1,8 @@
+Package: my-rest-api
+Version: 1.0.0
+Architecture: amd64
+Maintainer: Zehra <zehrawsq@gmail.com>
+Installed-Size: 9
+Section: web
+Priority: optional
+Description: A simple REST API application built with ASP.NET Core

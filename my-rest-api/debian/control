@@ -1,0 +1,11 @@
+Source: my-rest-api
+Section: web
+Priority: optional
+Maintainer: Zehra <zehrawsq@gmail.com>
+Build-Depends: debhelper-compat (= 12)
+Standards-Version: 4.5.0
+
+Package: my-rest-api
+Architecture: amd64
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: A simple REST API application built with ASP.NET Core
