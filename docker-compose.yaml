@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  rest-api:
+    image: rest-api:latest
+    build:
+      context: .
+    ports:
+      - "8080:80"
+    volumes:
+      - ./data:/app/data
